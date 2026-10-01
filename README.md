@@ -20,7 +20,7 @@ Follow current-head CI, reviewer and repository merge requirements; deployment i
 ## Related repositories
 
 The different version 2.0.0 core plugin in
-[pausatf-wordpress](https://github.com/pausatf/pausatf-wordpress/tree/main/plugins/pausatf-core) has its own
+pausatf-wordpress (`pausatf/pausatf-wordpress/tree/main/plugins/pausatf-core`, private repository) has its own
 Composer/npm tooling. Its dependency upgrades do not change this standalone widget override.
-[pausatf-deployment](https://github.com/pausatf/pausatf-deployment) supplies the local development stack.
+pausatf-deployment (`pausatf/pausatf-deployment`, private repository) supplies the local development stack.
 Maintainer: @somethingwithproof. License: GPL-2.0-or-later, as declared in the plugin header.
